@@ -4,7 +4,8 @@ a pentagon.
 
 You should look at the previous program, 02_Meet_TIna.py
 to see how to use the turtle commands.
-
+Tina.Forward()
+Tina.right(
 
 """
 
